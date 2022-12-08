@@ -1,5 +1,17 @@
 .headerReplacement {
-    width: 100%;
+    width: auto;
+    height: auto;
     background: url(img/glcroppped.jpg) #cccccc no-repeat;  
     background-size: cover;
+    color:#ecd274
  }
+
+ .w3-red,.w3-hover-red:hover{color:#fff!important;background-color:#74aaec!important}
+
+.fa-anchor {
+    font-size: 50%;
+}
+
+.iconStyle{
+    color: #74aaec
+}
